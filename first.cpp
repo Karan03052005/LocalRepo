@@ -5,4 +5,5 @@ int main() {
     return 0;
 cout<<"branch feature2"<<endl;
 cout<<"using command line to merge"<<endl;
+
 }
